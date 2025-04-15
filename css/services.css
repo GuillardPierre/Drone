@@ -22,19 +22,19 @@
 }
 
 .service-img-1 {
-	background-image: url(/images/service2.webp);
+	background-image: center / cover no-repeat url(/images/service2.webp);
 }
 
 .service-img-2 {
-	background-image: url(/images/service3.webp);
+	background-image: center / cover no-repeat url(/images/service3.webp);
 }
 
 .service-img-3 {
-	background-image: url(/images/service4.webp);
+	background-image: center / cover no-repeat url(/images/service4.webp);
 }
 
 .service-img-4 {
-	background-image: url(/images/service5.webp);
+	background-image: center / cover no-repeat url(/images/service5.webp);
 }
 
 .services a:hover .service-img {
