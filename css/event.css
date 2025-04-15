@@ -19,7 +19,6 @@
 	margin: 0 auto 40px;
 }
 
-/* Styles pour les cartes d'événements ajoutées */
 .upcoming-events {
 	display: flex;
 	flex-direction: column;
@@ -67,7 +66,6 @@
 	border-radius: 4px;
 }
 
-/* Styles pour la section ateliers */
 .workshops {
 	width: 100%;
 	max-width: 1200px;
@@ -104,7 +102,6 @@
 	margin-bottom: 15px;
 }
 
-/* Styles pour la galerie d'événements */
 .event-gallery {
 	width: 100%;
 	max-width: 1200px;
